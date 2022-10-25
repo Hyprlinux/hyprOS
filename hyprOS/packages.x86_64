@@ -168,5 +168,3 @@ egl-wayland
 cairo
 pango
 seatd
-
-sddm
