@@ -149,12 +149,12 @@ vulkan-icd-loader
 vulkan-validation-layers
 xorg-xwayland
 
-# some cool programs
 kitty
-waybar
-wofi
 vim
 nano
+conky
+firefox
+ttf-jetbrains-mono
 
 intel-ucode
 amd-ucode
