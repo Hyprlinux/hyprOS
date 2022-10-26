@@ -21,7 +21,6 @@ the iso will be `./out/`
 ## run
 
 if you have qemu on your system you can run it by doing
-there's gonna be an ISO here in some time
 ```
 run_archiso -i hyprOS-...-x86_64.iso
 ```
