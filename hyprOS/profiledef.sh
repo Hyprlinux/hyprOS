@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 # shellcheck disable=SC2034
 
-iso_name="hyprOS-$(date +%Y%m%d)"
-iso_label="HYPR_$(date +%Y%m)"
+iso_name="hyprOS"
+iso_label="HYPR_$(date +%Y%m%d)"
 iso_publisher="jacekpoz <jacekpoz@cock.li>"
 iso_application="hyprOS Live Boot"
 iso_version="$(date +%Y.%m.%d)"
